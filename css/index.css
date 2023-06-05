@@ -300,6 +300,17 @@ body {
   color: var(--accent);
 }
 
+.swiper-brief-story {
+  font-size: 1.3rem;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%);
+  min-width: 75%;
+  word-wrap: break-word;
+  color: var(--accent);
+}
+
 /* FAQ Section */
 
 .section__faq {
