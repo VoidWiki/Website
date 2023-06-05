@@ -53,7 +53,7 @@ sectionHeaders.forEach(header => {
 
 const copyIPBtn = document.querySelector(".btn__copyIP");
 copyIPBtn.addEventListener("click", () => {
-  copyText("bloodlustsmp.mc-server.pro");
+  copyText("https://www.canva.com/design/DAFkf2iKYOE/2__hJq9NKuA5X40aknvDZQ/view?utm_content=DAFkf2iKYOE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink");
   notify("Copied server IP", "success");
 });
 
@@ -87,7 +87,7 @@ staffMembers.forEach(member => {
 
 <span class="user-header notranslate">
 
-  <span class="user-name">${member.name}</span><span class="user-tag">#${member.tag}</span>
+  <span class="user-name">${member.name}</span><span class="user-tag">${member.tag}</span>
 
 </span>
 
