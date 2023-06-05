@@ -5,8 +5,8 @@
 
 :root {
   --accent: #2e333b;
-  --secondary: #92e8de;
-  --selection: #6dd0dd;
+  --secondary: #92d2e8;
+  --selection: #6dddbd;
   --section-height: 700px;
 }
 
@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgb(190, 51, 0);
 }
 #notification-area .notification.info {
-  background: #00e2ee;
+  background: #00acee;
 }
 
 .cross {
