@@ -61,18 +61,18 @@ const swiper = createSwiper(".swiper1");
 
 const staffMembers = [
   {
-    "name": "Parr0t",
-    "tag": "2962",
-    "full_name": "Parr0t#2962",
+    "name": "Derek Hu",
+    "tag": "",
+    "full_name": "Derek Hu",
     "avatar": "/assets/img/admin/Parr0t.png",
-    "role": "Admin and Member"
+    "role": "Creator and Contributor"
   },
   {
-    "name": "Bluewhalesharks",
-    "tag": "9920",
-    "full_name": "Bluewhalesharks#9920",
-    "avatar": "/assets/img/admin/Bluewhalesharks.png",
-    "role": "Admin and Member"
+    "name": "Fossa",
+    "tag": "",
+    "full_name": "Fossa",
+    "avatar": "/assets/img/admin/Fossa.png",
+    "role": "Weird but Cute Animal"
   }
 ]
 
